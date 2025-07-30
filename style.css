@@ -16,7 +16,7 @@ text-transform:uppercase;
   color:white;
 }
 .clock{
-display:flext;
+display:flex;
 }
 .clock div{
 margin:5px;
