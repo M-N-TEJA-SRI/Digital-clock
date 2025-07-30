@@ -17,7 +17,7 @@ let h=new Date().getHours();
   hourEl.innerText=h;
   minuteEl.innerText=m;
   secondEl.innerText=s;
-  ampmEl,(innerText=ampm);
+  ampmEl.innerText=ampm;
   setTimeout(()=>{
     updateClock();
   },1000);
